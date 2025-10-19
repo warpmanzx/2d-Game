@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: ec146477f7ecb01449110ab9b3b6a263
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2508595426636806037
+    second: namn lite genomskinlig_0
+  - first:
+      213: -5593902292066460440
+    second: namn lite genomskinlig_1
+  - first:
+      213: 8640076987272491823
+    second: namn lite genomskinlig_2
+  - first:
+      213: -1455287180967658479
+    second: namn lite genomskinlig_3
+  - first:
+      213: 6914486903263411919
+    second: namn lite genomskinlig_4
+  - first:
+      213: 6946085750715538907
+    second: namn lite genomskinlig_5
+  - first:
+      213: 6354200059787207474
+    second: namn lite genomskinlig_6
+  - first:
+      213: -7762579521771501756
+    second: namn lite genomskinlig_7
+  - first:
+      213: 4820768318572609929
+    second: namn lite genomskinlig_8
+  - first:
+      213: 612497812526443190
+    second: namn lite genomskinlig_9
+  - first:
+      213: -5320532437825416416
+    second: namn lite genomskinlig_10
+  - first:
+      213: 8622145982867446900
+    second: namn lite genomskinlig_11
+  - first:
+      213: 2760610058595545805
+    second: namn lite genomskinlig_12
+  - first:
+      213: 2076881544616181846
+    second: namn lite genomskinlig_13
+  - first:
+      213: -4274772267108978063
+    second: namn lite genomskinlig_14
+  - first:
+      213: -5723118026045634568
+    second: namn lite genomskinlig_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: namn lite genomskinlig_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 336
+        width: 104
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c42620cdaf2dd0800000000000000
+      internalID: -2508595426636806037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 353
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec922dc0877e52b0800000000000000
+      internalID: -5593902292066460440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 352
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23776a2e38b7e770800000000000000
+      internalID: 8640076987272491823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 335
+        width: 63
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c3e34f408cdcbe0800000000000000
+      internalID: -1455287180967658479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 352
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce3b19343135ff50800000000000000
+      internalID: 6914486903263411919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 352
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd5dc63034756060800000000000000
+      internalID: 6946085750715538907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 352
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233e163d947ae2850800000000000000
+      internalID: 6354200059787207474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 352
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44786188d07c54490800000000000000
+      internalID: -7762579521771501756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 345
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814af48e3fc6e240800000000000000
+      internalID: 4820768318572609929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 183
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6baa75de387008800800000000000000
+      internalID: 612497812526443190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 166
+        width: 103
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023197befeba926b0800000000000000
+      internalID: -5320532437825416416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 183
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c106ed61408a770800000000000000
+      internalID: 8622145982867446900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 183
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc235f1d838af4620800000000000000
+      internalID: 2760610058595545805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 183
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6508963d2c092dc10800000000000000
+      internalID: 2076881544616181846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 182
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17237439545fca4c0800000000000000
+      internalID: -4274772267108978063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: namn lite genomskinlig_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 183
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f74ae94a766390b0800000000000000
+      internalID: -5723118026045634568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      namn lite genomskinlig_0: -2508595426636806037
+      namn lite genomskinlig_1: -5593902292066460440
+      namn lite genomskinlig_10: -5320532437825416416
+      namn lite genomskinlig_11: 8622145982867446900
+      namn lite genomskinlig_12: 2760610058595545805
+      namn lite genomskinlig_13: 2076881544616181846
+      namn lite genomskinlig_14: -4274772267108978063
+      namn lite genomskinlig_15: -5723118026045634568
+      namn lite genomskinlig_2: 8640076987272491823
+      namn lite genomskinlig_3: -1455287180967658479
+      namn lite genomskinlig_4: 6914486903263411919
+      namn lite genomskinlig_5: 6946085750715538907
+      namn lite genomskinlig_6: 6354200059787207474
+      namn lite genomskinlig_7: -7762579521771501756
+      namn lite genomskinlig_8: 4820768318572609929
+      namn lite genomskinlig_9: 612497812526443190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
